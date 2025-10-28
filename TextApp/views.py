@@ -1,3 +1,4 @@
+from django.shortcuts import render
 
 import random
 from django.shortcuts import render
